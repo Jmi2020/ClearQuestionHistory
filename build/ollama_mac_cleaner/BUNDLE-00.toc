@@ -1,0 +1,3 @@
+([('ollama_mac_cleaner',
+   '/Users/Jer/Desktop/Coding/ClearQuestionHistory/dist/ollama_mac_cleaner',
+   'EXECUTABLE')],)
