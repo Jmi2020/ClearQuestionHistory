@@ -37,7 +37,7 @@ This tool will help you maintain OPSEC (Operational Security) by eliminating all
 
 1. Clone this repository to your local machine (we recommend using a secure connection):
    ```bash
-   git clone https://yourrepository.git
+   git clone https://github.com/Jmi2020/ClearQuestionHistory.git
    cd operation-amnesia
    ```
 
